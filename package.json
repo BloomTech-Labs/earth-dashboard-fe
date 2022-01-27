@@ -82,7 +82,7 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "^3.4.1",
     "resize-observer-polyfill": "^1.5.1",
-    "three": "^0.117.1",
+    "three": "^0.137.0",
     "victory": "^34.2.2"
   },
   "devDependencies": {
